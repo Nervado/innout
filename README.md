@@ -1,19 +1,23 @@
-# innout
+<p align="center">
+  <a href="http://34s0ft.com/" target="blank"><img src="./public/assets/images/logo.svg" width="420" alt="34s0ft Logo" /></a>
+</p>
 
-innout is one demonstration project of cod3r practical classes.
+## innout
 
-## database
+In N' Out is one demonstration project of [**Cod3r**](https://www.cod3r.com.br/) practical classes.
 
-To run this project as a sugestion you need first load data into to databe using the sql queries on extra directory.
+### database
 
-## setup
+To run this project as a sugestion you need first load data into to databe using the sql queries on **extra directory**.
 
-you need adapt the .htaccess file in public folder to match your setup server settings
+### setup
 
-## server
+You need adapt the .htaccess file in public folder to match your setup server settings.
 
-you can serve the public folder in a server with php 7.4 and apache
+### server
 
-## login
+You can serve the public folder in a server with php 7.4 and apache.
 
-all users have the same password 'a''
+### login
+
+All users have the same password 'a'.
