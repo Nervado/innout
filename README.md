@@ -2,22 +2,22 @@
   <a href="http://34s0ft.com/" target="blank"><img src="./public/assets/images/logo.svg" width="250" alt="34s0ft Logo" /></a>
 </p>
 
-## innout
+## Innout
 
-In N' Out is one demonstration project of [**Cod3r**](https://www.cod3r.com.br/) practical classes.
+In N' Out is one demonstration project of [**Cod3r**](https://www.cod3r.com.br/) practical classes. It's a time counting system for employees' working hours.
 
-### database
+### Database
 
-To run this project as a sugestion you need first load data into to databe using the sql queries on **extra directory**.
+To run this project as a sugestion you need first load data into to databe using the sql queries on **extra directory**. MySql was the choice for this setup.
 
-### setup
+### Setup
 
 You need adapt the .htaccess file in public folder to match your setup server settings.
 
-### server
+### Server
 
-You can serve the public folder in a server with php 7.4 and apache.
+You can serve the public folder in a server with **php 7.4 and apache**.
 
-### login
+### Login
 
-All users have the same password 'a'.
+All users have the same password **'a'**.
