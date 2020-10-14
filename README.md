@@ -12,7 +12,7 @@ To run this project as a sugestion you need first load data into to databe using
 
 ### Setup
 
-You need adapt the .htaccess file in public folder to match your setup server settings.
+You need adapt the .htaccess file in public folder to match your setup server settings. You must add a new file **env.ini** with your database connections settings in source directory. A **env.sample.ini** is provided.
 
 ### Server
 
