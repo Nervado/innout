@@ -8,15 +8,15 @@ In N' Out is one demonstration project of [**Cod3r**](https://www.cod3r.com.br/)
 
 ### Database
 
-To run this project as a sugestion you need first load data into to databe using the sql queries on **extra directory**. MySql was the choice for this setup.
+To run this project as a sugestion you need first load data into to databe using the sql queries on **extra folder**. **MySql** was the choice for this setup.
 
 ### Setup
 
-You need adapt the .htaccess file in public folder to match your setup server settings. You must add a new file **env.ini** with your database connections settings in source directory. A **env.sample.ini** is provided.
+You need adapt the **.htaccess** file in **public folder** to match your setup server settings. You must add a new file **env.ini** with your database connections settings in **source folder**. A **env.sample.ini** is provided.
 
 ### Server
 
-You can serve the public folder in a server with **php 7.4 and apache**.
+You can serve the **public folder** in a server with **php 7.4 and apache**. The application entry point is the **index.php** file in public folder.
 
 ### Login
 
