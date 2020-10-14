@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://34s0ft.com/" target="blank"><img src="./public/assets/images/logo.svg" width="420" alt="34s0ft Logo" /></a>
+  <a href="http://34s0ft.com/" target="blank"><img src="./public/assets/images/logo.svg" width="250" alt="34s0ft Logo" /></a>
 </p>
 
 ## innout
